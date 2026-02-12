@@ -1,3 +1,8 @@
 # 26Spring_DB_Project
-Group project for Database Design and Implementation
-Last Resort Hotels 
+Group project for CSCI-UA 60 Database Design and Implementation  
+
+**Project Topic**: Last Resort Hotels  
+
+**Group Member**: Enkh-Amgalan Itgel (ie2124), Rundong Luo (rl5232), Yuchen Shi (ys6132), Rachel Te (rt2778)  
+
+*Under construction...*
